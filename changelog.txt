@@ -1,6 +1,6 @@
 /release \1~
 
--sark is now an extra exe instead of replacing \x ~(sonic.exe)
+-\sark ~is now an extra exe instead of replacing \x ~(\sonic.exe~)
 -demonized are now \sark's ~variants
--amy and cream received changes or additions to their movesets
+-^amy ~and cream received changes or additions to their movesets
 -additional pets and icons in the shop
