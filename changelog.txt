@@ -1,4 +1,4 @@
-/release \1~
+release @1~
 
 -\sark ~is now an extra killer with a unique moveset
 instead of replacing \x ~(\sonic.exe~)
