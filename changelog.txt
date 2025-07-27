@@ -3,14 +3,14 @@ release @1~
 -\sark ~is now an extra killer with a unique moveset
 instead of replacing \x ~(\sonic.exe~)
 -demonized characters are now \sark's ~variants
--amy and cream received changes or additions 
+-@amy~ and @cream~ received changes or additions 
 to their movesets
 -\sark's temple ~and #sark's hill ~are added 
 as 21st and 22nd maps
 -additional pets and icons in the shop
 
 patch @2~
--fixed a crash when Amy (Rosy) escapes
+-fixed a crash when @Amy~ (@Rosy~) escapes
 -corrected \sark's~ character selection info
 -added info about \sark~ in character info
 
