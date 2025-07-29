@@ -9,7 +9,7 @@ to their movesets
 as 21st and 22nd maps
 -additional pets and icons in the shop
 
-patch @2~ (still work in progress)
+patch @2~
 -fixed a crash when @Amy~ (@Rosy~) escapes
 -corrected \sark's~ character selection info
 -added info about \sark~ in character info
